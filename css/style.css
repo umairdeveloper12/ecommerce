@@ -1,0 +1,24 @@
+body {
+  background-color: #fff8d5e5;
+}
+
+/* .container {
+  border: 2px solid black;
+}
+
+.row {
+  border: 2px solid green;
+}
+
+.col-12,
+.col-3 {
+  border: 2px solid red;
+} */
+
+#cimage {
+  height: 600px;
+}
+
+#pimage {
+  height: 220px;
+}
